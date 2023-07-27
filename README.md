@@ -1,6 +1,6 @@
 # Exploratory-Analysis-of-Movie-Dataset-with-SQL
 
-This project contains 19 files in which the following seven questions was answered.
+This project contains 19 files in which the following seven questions were answered.
 
 MOVIES DATASET QUESTIONS
 
